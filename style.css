@@ -1,0 +1,26 @@
+div {
+    margin-bottom: 2%;
+}
+#add-topic {
+    margin-top: 1.5%;
+    font-size: 12pt;
+    background-color: blanchedalmond;
+    border-radius: 10pt;
+}
+#add-topic:hover {
+    background-color:rgb(255, 196, 107);
+}
+#gifs-appear-here {
+    margin-top: 2%;
+}
+.topic{
+    background-color: blanchedalmond;
+    font-size: 12pt;
+    margin-right: 1%; 
+}
+.topic:hover {
+    background-color:rgb(255, 196, 107);
+}
+#topic-imput {
+    background-color: blanchedalmond;
+}
